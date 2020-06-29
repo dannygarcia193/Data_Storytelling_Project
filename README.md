@@ -77,8 +77,4 @@ When thinking about establishing in LA, given
 
 * * *
 
-#### To download presentation for this project click [here](https://github.com/dannygarcia193/Data_Storytelling_Project/raw/master/Market_Research_LA_Establishments.pptx)
-
-#### GitHub Project Link To access the repository for this project click [here.](https://github.com/dannygarcia193/Data_Storytelling_Project/blob/master/Data_Preprocessing.ipynb)
-
 
