@@ -51,16 +51,13 @@ You’re an analytics guru, so your partners have asked you to prepare some mark
 **Conclusion**
 --------------
 
-When thinking about establishing in LA, given
+ *   **Restaurants more likely to be non-chains (68.4%)**
 
-1.  chosen establishment (small Cafe), (2) the novelty of the service provided (robot waiters), (3) the current market conditions, (4) cost of the project, and  (5) long-term goal to maintain a successful establishment,  the following conclusion is given:
+ *   **Large share of establishments in LA**: Restaurants make up roughly 75% of the establishments in LA -- make it relatively easier to compete and thrive given the service it will provide
 
-  
-*    **Restaurants more likely to be non-chains (68.4%)**
+When thinking about establishing in LA, given: (1) chosen establishment (small Cafe), (2) the novelty of the service provided (robot waiters), (3) the current market conditions, (4) cost of the project, and  (5) long-term goal to maintain a successful establishment,  the following conclusion is given:
 
-*   **Large share of establishments in LA**: Restaurants make up roughly 75% of the establishments in LA -- make it relatively easier to compete and thrive given the service it will provide
-
-**Recommendation**: **The company should pivot towards establishing a restaurant** as there is less big players in that market relative to Cafes; small cafes are being outcompeted by Cafe chains. In addition, the company should consider starting off as a non-chain with 48 and (avg. for a restaurant chain) and depending on its strategy, establish itself in a street with many restaurants and/or one restaurant. It can then aggressively grow and establish a chain thereafter given the novelty of service provided.
+> **The company should pivot towards establishing a restaurant** as there is less big players in that market relative to Cafes; small cafes are being outcompeted by Cafe chains. In addition, the company should consider starting off as a non-chain with 48 and (avg. for a restaurant chain) and depending on its strategy, establish itself in a street with many restaurants and/or one restaurant. It can then aggressively grow and establish a chain thereafter given the novelty of service provided.
 
 * * *
 
