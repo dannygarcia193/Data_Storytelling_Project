@@ -38,7 +38,7 @@ You’re an analytics guru, so your partners have asked you to prepare some mark
 
 **Restaurant:**
 
-*   Make up roughly 75% of the establishments in LA
+* **Large share of establishments in LA**: Restaurants make up roughly 75% of the establishments in LA -- make it relatively easier to compete and thrive given the service it will provide
 *   More likely to be non-chains (68.4%)
 *   _Chains_:
     1.  1/5 or 20% have many seats (> 60)
